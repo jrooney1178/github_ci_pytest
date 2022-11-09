@@ -1,8 +1,8 @@
-name: env_name
+name: anyNameForThis
 channels:
   - conda-forge
   - defaults
-depenedencies:
+dependencies:
   - moto
   - boto
   - pytest
