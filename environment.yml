@@ -1,0 +1,8 @@
+name: env_name
+channels:
+  - conda-forge
+  - defaults
+depenedencies:
+  - moto
+  - boto
+  - pytest
